@@ -13,7 +13,7 @@
 
 - 🤝 I’m available to help with **building MERN stack applications and improving code efficiency.**
 
-- 👨‍💻 All of my projects are available at [rkrefatalhasan.netlify.app](rkrefatalhasan.netlify.app)
+- 👨‍💻 All of my projects are available at [rkrefatalhasan.netlify.app](www.rkrefatalhasan.netlify.app)
 
 - 💬 Ask me about **web development, building real-time applications, JavaScript frameworks.**
 
